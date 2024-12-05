@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\2024.11.25\2024.11.25\bin\Debug\2024.11.25.exe.config
+C:\Users\User\Desktop\2024.11.25\2024.11.25\obj\Debug\2024.11.25.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\2024.11.25\2024.11.25\obj\Debug\_2024._11._25.Form1.resources
+C:\Users\User\Desktop\2024.11.25\2024.11.25\obj\Debug\_2024._11._25.Properties.Resources.resources
+C:\Users\User\Desktop\2024.11.25\2024.11.25\obj\Debug\2024.11.25.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\2024.11.25\2024.11.25\bin\Debug\2024.11.25.exe
+C:\Users\User\Desktop\2024.11.25\2024.11.25\bin\Debug\2024.11.25.pdb
+C:\Users\User\Desktop\2024.11.25\2024.11.25\obj\Debug\2024.11.25.exe
+C:\Users\User\Desktop\2024.11.25\2024.11.25\obj\Debug\2024.11.25.pdb
+C:\Users\User\Desktop\2024.11.25\2024.11.25\obj\Debug\_2024._11._25.Form2.resources
